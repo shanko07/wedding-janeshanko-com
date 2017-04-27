@@ -1,10 +1,8 @@
 /* phone size */
 .imageDiv {
     width: 98%;
-    #height: 36%;
     height: 250px;
     padding: 10px 1%;
-    #background-color: red;
 }
 
 .imageWrapper {
@@ -19,10 +17,8 @@
 
 .frameDiv {
     width: 98%;
-    #height: 31%;
     height: 250px;
     padding: 10px 1%;
-    #background-color: green;
 }
 
 .frame {
@@ -32,10 +28,7 @@
 
 .textDiv {
     width: 98%;
-    #height: 21%;
-    height: 100px;
     padding: 10px 1%;
-    #background-color: blue;
 }
 
 /* tablet size */
@@ -43,7 +36,6 @@
     width: 48%;
     height: 98%;
     padding: 10px 1%;
-    #background-color: red;
     min-width: 0;
     min-height: 0;
 }
@@ -64,7 +56,6 @@
     width: 48%;
     height: 98%;
     padding: 10px 1%;
-    #background-color: green;
     min-width: 0;
     min-height: 0;
 }
@@ -76,10 +67,8 @@
 
 .textDiv2 {
     width: 98%;
-    #height: 25%;
     height: 100px;
     padding: 10px 1%;
-    #background-color: blue;
 }
 
 .rowDiv {

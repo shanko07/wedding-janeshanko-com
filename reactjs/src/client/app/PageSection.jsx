@@ -3,10 +3,8 @@ import styles from './PageSection.css';
 var MediaQuery = require('react-responsive');
 
 let textStyle = {
+    overflow: 'auto',
     marginLeft: 'auto',
-    display: '-webkit-flex',
-    display: 'flex',
-    flexDirection: 'column',
     justifyContent: 'center',
     padding: '0px 15px',
     fontFamily: "'Dancing Script', monospace",
@@ -16,9 +14,6 @@ let textStyle = {
 
 let textStyle2 = {
     marginLeft: 'auto',
-    display: '-webkit-flex',
-    display: 'flex',
-    flexDirection: 'column',
     justifyContent: 'center',
     padding: '0px 15px',
     fontFamily: "'Dancing Script', monospace",
