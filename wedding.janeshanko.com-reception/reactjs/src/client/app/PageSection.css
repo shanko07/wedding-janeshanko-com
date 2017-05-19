@@ -1,0 +1,83 @@
+/* phone size */
+.imageDiv {
+    width: 98%;
+    height: 250px;
+    padding: 10px 1%;
+}
+
+.imageWrapper {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.image {
+    margin: -325px 0 0 -750px;
+}
+
+.frameDiv {
+    width: 98%;
+    height: 250px;
+    padding: 10px 1%;
+}
+
+.frame {
+    width: 100%;
+    height: 100%;
+}
+
+.textDiv {
+    width: 98%;
+    padding: 10px 1%;
+}
+
+/* tablet size */
+.imageDiv2 {
+    width: 48%;
+    height: 98%;
+    padding: 10px 1%;
+    min-width: 0;
+    min-height: 0;
+}
+
+/* http://stackoverflow.com/questions/493296/css-display-an-image-resized-and-cropped */
+
+.imageWrapper {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.image2 {
+    margin: -250px 0 0 -750px;
+}
+
+.frameDiv2 {
+    width: 48%;
+    height: 98%;
+    padding: 10px 1%;
+    min-width: 0;
+    min-height: 0;
+}
+
+.frame2 {
+    width: 100%;
+    height: 100%;
+}
+
+.textDiv2 {
+    width: 98%;
+    height: 100px;
+    padding: 10px 1%;
+}
+
+.rowDiv {
+    display: -webkit-flex;
+    display: flex;
+    width: 100%;
+    height: 600px;
+}
+
+.outer {
+    padding-top: 50px;
+}
