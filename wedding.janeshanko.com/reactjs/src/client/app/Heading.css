@@ -1,0 +1,10 @@
+.meh {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 50px;
+    display: flex;
+    position: fixed;
+    background-color: white;
+    width: 100%;
+}
